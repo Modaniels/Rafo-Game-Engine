@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/modaniels/Rafo-Game-Engine/build",
+  "command": "/usr/bin/c++  -I/home/modaniels/Rafo-Game-Engine/include -g -std=gnu++17 -o CMakeFiles/RAFO_GAME_ENGINE.dir/src/main.cpp.o -c /home/modaniels/Rafo-Game-Engine/src/main.cpp",
+  "file": "/home/modaniels/Rafo-Game-Engine/src/main.cpp",
+  "output": "CMakeFiles/RAFO_GAME_ENGINE.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/modaniels/Rafo-Game-Engine/build",
+  "command": "/usr/bin/cc  -I/home/modaniels/Rafo-Game-Engine/include -g -o CMakeFiles/RAFO_GAME_ENGINE.dir/src/glad.c.o -c /home/modaniels/Rafo-Game-Engine/src/glad.c",
+  "file": "/home/modaniels/Rafo-Game-Engine/src/glad.c",
+  "output": "CMakeFiles/RAFO_GAME_ENGINE.dir/src/glad.c.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/modaniels/Rafo-Game-Engine/CMakeFiles/RAFO_GAME_ENGINE.dir
+/home/modaniels/Rafo-Game-Engine/CMakeFiles/edit_cache.dir
+/home/modaniels/Rafo-Game-Engine/CMakeFiles/rebuild_cache.dir
